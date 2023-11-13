@@ -1,0 +1,1 @@
+<?php $conn=@mysqli_connect("localhost","root","","contactos") or die("No se pudo conectar al servidor");?>
